@@ -3,6 +3,8 @@
 
 ### Dashboard Link : https://app.powerbi.com/links/hg1R8Ng2kc?ctid=2929b0e6-f3ef-4cd4-a1e2-54a38c2065df&pbi_source=linkShare
 
+Here, the excel file used for this project : [Power BI - Final Project.xlsx](https://github.com/user-attachments/files/18495195/Power.BI.-.Final.Project.xlsx)
+
 # Introduction
 
 The rapid evolution of data-related careers—such as data engineering, data analysis, and data science—has significantly reshaped the modern professional landscape. These roles are at the forefront of innovation, enabling businesses to harness data-driven insights for strategic decision-making. However, with this rapid growth comes an urgent need to understand the human aspect of these professions: **Are professionals in this field happy? Do they find their roles challenging or rewarding? Are they satisfied with their salaries and work-life balance?**
